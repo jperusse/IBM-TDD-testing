@@ -1,7 +1,7 @@
 '''
     Test setup
 '''
-from pytest_workshop.validate import Validate
+from src.verify.validate import Validate
 
 def test_hello_there_default():
     '''
